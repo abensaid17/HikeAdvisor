@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "284978567048",
+    "firebase_url": "https://hikeadvisor-443d7-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "hikeadvisor-443d7",
+    "storage_bucket": "hikeadvisor-443d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284978567048:android:b08fade05e8258905ccc3d",
+        "android_client_info": {
+          "package_name": "com.ComapnyAdvisors.hikeAdvisor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284978567048-ofukr3o35q23ifcorqbupe88ljamenct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ComapnyAdvisors.hikeAdvisor",
+            "certificate_hash": "a9c55372bc7e2bcb5e2b82fd26c9a198421645c9"
+          }
+        },
+        {
+          "client_id": "284978567048-lkelq81s4pn24qb97hmqg0id94sgnugd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrYNI01N40CF7ghf_A1G4FGJVqswG4uRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284978567048-6slahs0fjs2vqcidoo5goevfddm88f1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
