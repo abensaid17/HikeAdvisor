@@ -11,5 +11,5 @@
 
     <!--Background Color-->
     <color name="background_color">#EDEDED</color>
-
+    <color name="secondary_Color">#F16161</color>
 </resources>

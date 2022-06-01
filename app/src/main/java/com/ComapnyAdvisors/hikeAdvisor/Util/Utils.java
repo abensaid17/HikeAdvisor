@@ -4,7 +4,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class Utils {
-    public static final String PARKS_URL = "";
+    public static final String PARKS_URL = "https://developer.nps.gov/api/v1/parks?parkCode=acad&api_key=C5R7Ph0MnE9UisjjyCIvEm4eruxicuuj1vKThRls";
     private Utils() {
 
     }
